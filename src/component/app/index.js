@@ -1,0 +1,1 @@
+export { CodetapAcademyStart } from './app.component'
